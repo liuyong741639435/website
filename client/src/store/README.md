@@ -1,0 +1,1 @@
+### 中文文档 https://pinia.web3doc.top/introduction.html#%E5%9F%BA%E6%9C%AC%E7%A4%BA%E4%BE%8B
